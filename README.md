@@ -10,4 +10,7 @@ That's why coursera team provided this alternative way to upload the pdf on GitH
 
 The last step they advised is to provide this link instead of Cognos link with my submission on Week 5 submission.
 
+Please go through the following link:
+https://github.com/PThakurs/CapstoneProject_Course9_Week5/blob/main/CapstoneProject_Dashboard_pdf_v2.pdf
+
 Thanks for your understanding!
